@@ -1,0 +1,21 @@
+/* Empty. Add your own CSS if you like */
+.center{ text-align: center;}
+.justify{ text-align: justify;}
+.left{ text-align: left;}
+.right{ text-align: right;}
+
+.item-thumbnail-left img{
+	border: 1px solid #fff;
+	box-shadow: 0 0 3px #888;
+	border-radius: 10%;
+}
+
+.bar-red{
+    background-color: #930f1a;
+    color: #fff;
+}
+
+.tabs-red > .tabs{
+    background-color: #930f1a;
+    color: #fff;
+}
