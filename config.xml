@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.ionicframework.vgtartinihr" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
-  <name>Tartini vodič</name>
+<widget id="com.ionicframework.vgtartiniit" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+  <name>Tartini audioguida</name>
   <description>
-    Avdio vodič po izložbi Tartini 1692 - 1770
+    Audioguida della mostra Tartini 1692 - 1770
   </description>
   <author email="znidarsic.tone@gmail.com" href="http://www.intri.si/">
     Tone Žnidaršič
